@@ -11,6 +11,9 @@ Tri-Co DSRI session on Artificial Intelligence (AI) systems
 * Evaluate the results 
 * Discuss the ethical concerns for using AI in your research
 
-Not in the scope
+### Not in scope
 * Creating your own application or using the API
-* Use of other AI tools
+
+## Schedule
+[Part 1](Part1.md)  
+[Part 2](Part2.md)  
