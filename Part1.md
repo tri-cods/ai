@@ -17,6 +17,7 @@
     * What texts will or will not generate “good” results?
   * Create a powerpoint presentation from the same article you used in the previous exercise
     * Example
+    * [Instructions](powerpoint.md)
     * [Tutorial inspiration](https://www.tomkytran.com/how-to-use-gpt-4-to-create-an-entire-powerpoint-presentation/)
     * Note the “PS” section at the bottom where the author demonstrated how they dealt with errors in the code 
     * Troubleshooting
