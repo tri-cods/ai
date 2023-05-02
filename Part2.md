@@ -19,3 +19,12 @@
     * https://tilt.colostate.edu/what-should-a-syllabus-statement-on-ai-look-like/
     * https://mcgraw.princeton.edu/guidance-aichatgpt 
   * Where is the line between assisting or supporting the work and actually doing the work?
+  * What OpenAI is good for and not good for
+      * Good: summaries, re-writing in a different voice, generating ideas for titles, brainstorming
+      * Bad: accuracy, generating citations, potential bias
+      * Specifically for college professors: asking students to write a summary of an article to prove they read it may be obsolete (but that may not have been a great use of writing to begin with).  Assignments which require more thought and personal connections are still out of reach of AI (today!).  
+   * The future of AI
+      * Improvements haven't come linearly – not sure whether progress will plateau or increase rapidly
+      * Experts (at least those without financial stakes in AI companies) often have significant concern about misuse and biases
+      * A large increase in AI generated web pages could create a major disruption in Google's search business, which is what most of the Internet is organized around. 
+
