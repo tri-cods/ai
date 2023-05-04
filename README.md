@@ -17,3 +17,6 @@ Tri-Co DSRI session on Artificial Intelligence (AI) systems
 ## Schedule
 [Part 1](Part1.md)  
 [Part 2](Part2.md)  
+
+## Resources
+We've collected supporting resources and readings into a [Zotero library](https://www.zotero.org/groups/5050481/openai/library)
